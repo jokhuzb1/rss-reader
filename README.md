@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Cors-realted issues
+You may face issue related to cors, however project is already uses third pary cors provider by heroku, 
+make sure to go to "https://cors-anywhere.herokuapp.com" and get a temporary access
+
+
 ## Available Scripts
 
 In the project directory, you can run:
